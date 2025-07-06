@@ -13,3 +13,7 @@ It has a lookup activity that is connected to an Azure datalake Gen2, it gets a 
 It creates a for each loop to get different data from GitHub.
 
 A copy activity copies the data to the bronze layer supported on Azure datalake Gen2.
+
+# Azure Databricks
+
+Using a service level app, the databricks is connected to the data lake
